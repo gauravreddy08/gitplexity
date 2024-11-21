@@ -6,7 +6,7 @@ This challenge often leaves *developers feeling lost*, especially newcomers to a
 
 When I joined my previous company, I faced the same hurdles-deciphering a massive codebase with minimal guidance, all while hesitating to interrupt busy senior colleagues.
 
-> **Enter GitPlexity: Perplexity for GitHub**
+> Enter **GitPlexity: *Perplexity for GitHub***
 > 
 > **GitPlexity** is your intelligent guide for seamless navigation of GitHub repositories. It transforms the way you explore codebases, helping you save time and gain clarity.
 
@@ -15,17 +15,13 @@ When I joined my previous company, I faced the same hurdles-deciphering a massiv
 
 ### **Repository Input**
 
-<video width="100%" controls autoplay>
-  <source src="https://github.com/gauravreddy08/gitplexity/raw/main/assets/demo-p1.mp4" type="video/mp4">
-</video>
+![](https://github.com/gauravreddy08/gitplexity/raw/main/assets/demo-p1.mp4)
 
 Users simply provide the GitHub repository they want to explore.
 
 ### **Interactive Codebase Mapping**
 
-<video width="100%" controls autoplay>
-  <source src="https://github.com/gauravreddy08/gitplexity/raw/main/assets/demp-p2.mp4" type="video/mp4">
-</video>
+![](https://github.com/gauravreddy08/gitplexity/raw/main/assets/demp-p2.mp4)
 
 Behind the scenes, **GitPlexity** uses a **Retrieval-Augmented Generation (RAG)** system to map the entire codebase into an intuitive, tree-like structure. This structure offers a clearer, more navigable alternative to GitHub’s native interface.
 
@@ -33,9 +29,7 @@ The app uses a Retrieval-Augmented Generation (RAG) system to create a tree-like
 
 ### **LLM-Powered Chat**
 
-<video width="100%" controls autoplay>
-  <source src="https://github.com/gauravreddy08/gitplexity/raw/main/assets/demo-p3.mp4" type="video/mp4">
-</video>
+![](https://github.com/gauravreddy08/gitplexity/raw/main/assets/demo-p3.mp4)
 
 * **File Insights:** Clicking on any file (a node in the tree) triggers an explanation from the LLM assistant. You’ll receive a brief description of the file and its role in the codebase.
 * **Chat Interaction:** A separate chat tab enables you to query the LLM directly about the codebase for deeper insights.
@@ -46,9 +40,7 @@ The app uses a Retrieval-Augmented Generation (RAG) system to create a tree-like
 * **Developer-Friendly:** Perfect for onboarding, debugging, or simply learning how complex projects work.
 
 > View demo on :simple-facebook: facebook/llama repository
-<video width="100%" controls autoplay>
-    <source src="https://github.com/gauravreddy08/gitplexity/raw/main/assets/LlamaDemo.mp4" type="video/mp4">
-</video>
+> ![](https://github.com/gauravreddy08/gitplexity/raw/main/assets/LlamaDemo.mp4)
 
 
 
