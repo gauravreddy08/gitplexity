@@ -16,7 +16,7 @@ class LLM():
         self._append('system', 
                      prompts.SYSTEM_PROMPT.format(REPO_TREE=self.codeTree.repoTree))
         
-        f = open('tools.json', 'r')
+        f = open('src/tools.json', 'r')
         self.tools = json.load(f)
 
     def call(self, prompt=None, filepath=None, tool_choice='auto'):

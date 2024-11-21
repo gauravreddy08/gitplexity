@@ -48,7 +48,7 @@ class Tree():
                 else:
                     nodeMap[childPath] = StreamlitFlowNode(str(childPath), (x, y), 
                                                            {'content': f"{childPath.name}"}, 
-                                                           'default', 'right', 'left', 
+                                                           'default', 'right', 'left',
                                                            draggable=True)
                 self.nodes.append(nodeMap[childPath])
                 edge = StreamlitFlowEdge("", 

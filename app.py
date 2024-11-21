@@ -7,14 +7,15 @@ from src.LLM import LLM
 from src.utils import clone
 import os
 
-st.set_page_config("GitPlexity", layout="wide")
+st.set_page_config("GitPlexity", 
+                   page_icon='assets/favicon.png',
+                   layout="wide")
 
 st.image('assets/logo.png', width=250)
 
 @st.dialog("Input you link")
 def getLink():
-    st.write(f"GitHub Repo")
-    repoUrl = st.text_input("git link")
+    repoUrl = st.text_input("GitHub Repository URL")
     if st.button("Submit"):
         if clone(repoUrl):
             st.session_state.repository = repoUrl
@@ -83,9 +84,6 @@ else:
             
             st.session_state.messages.append({"role": "assistant", "content": response})
 
-            
-
-
     # with col2:
     with tab2:
         messages = st.container(height=600)
@@ -102,4 +100,3 @@ else:
 
             messages.chat_message("assistant").markdown(response)
             st.session_state.messages.append({"role": "assistant", "content": response})
-    
