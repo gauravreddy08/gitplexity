@@ -32,9 +32,9 @@ The app uses a Retrieval-Augmented Generation (RAG) system to create a tree-like
 * **AI-Powered Guidance:** Understand files and their roles without needing constant help from teammates.
 * **Developer-Friendly:** Perfect for onboarding, debugging, or simply learning how complex projects work.
 
-> View demo on :simple-facebook: facebook/llama repository
+> View demo on facebook/llama repository
 > [LlamaDemo.mp4](https://github.com/gauravreddy08/gitplexity/raw/main/assets/LlamaDemo.mp4)
 
 > **GitPlexity isn’t just a tool.**
 > 
-> It’s a companion for developers navigating the complexities of modern repositories. Whether you're a junior developer getting started or a senior engineer exploring new projects, **GitPlexit**y helps you move from confusion to clarity with ease.
+> It’s a companion for developers navigating the complexities of modern repositories. Whether you're a junior developer getting started or a senior engineer exploring new projects, **GitPlexity** helps you move from confusion to clarity with ease.
