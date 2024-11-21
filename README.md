@@ -11,27 +11,18 @@ When I joined my previous company, I faced the same hurdles-deciphering a massiv
 > **GitPlexity** is your intelligent guide for seamless navigation of GitHub repositories. It transforms the way you explore codebases, helping you save time and gain clarity.
 
 ## **How GitPlexity Changes the Game**
-https://github.com/gauravreddy08/gitplexity/raw/main/assets/LlamaDemo.mp4
-
-https://github.com/gauravreddy08/gitplexity/blob/main/assets/LlamaDemo.mp4
 
 ### **Repository Input**
-
-![](https://github.com/gauravreddy08/gitplexity/raw/main/assets/demo-p1.mp4)
 
 Users simply provide the GitHub repository they want to explore.
 
 ### **Interactive Codebase Mapping**
-
-![](https://github.com/gauravreddy08/gitplexity/raw/main/assets/demp-p2.mp4)
 
 Behind the scenes, **GitPlexity** uses a **Retrieval-Augmented Generation (RAG)** system to map the entire codebase into an intuitive, tree-like structure. This structure offers a clearer, more navigable alternative to GitHub’s native interface.
 
 The app uses a Retrieval-Augmented Generation (RAG) system to create a tree-like structure of your repository. This map provides an overview of the codebase at a glance, so you can easily locate and access specific files.
 
 ### **LLM-Powered Chat**
-
-![](https://github.com/gauravreddy08/gitplexity/raw/main/assets/demo-p3.mp4)
 
 * **File Insights:** Clicking on any file (a node in the tree) triggers an explanation from the LLM assistant. You’ll receive a brief description of the file and its role in the codebase.
 * **Chat Interaction:** A separate chat tab enables you to query the LLM directly about the codebase for deeper insights.
@@ -42,9 +33,7 @@ The app uses a Retrieval-Augmented Generation (RAG) system to create a tree-like
 * **Developer-Friendly:** Perfect for onboarding, debugging, or simply learning how complex projects work.
 
 > View demo on :simple-facebook: facebook/llama repository
-> ![](https://github.com/gauravreddy08/gitplexity/raw/main/assets/LlamaDemo.mp4)
-
-
+> [LlamaDemo.mp4](https://github.com/gauravreddy08/gitplexity/raw/main/assets/LlamaDemo.mp4)
 
 > **GitPlexity isn’t just a tool.**
 > 
