@@ -11,7 +11,9 @@ When I joined my previous company, I faced the same hurdles-deciphering a massiv
 > **GitPlexity** is your intelligent guide for seamless navigation of GitHub repositories. It transforms the way you explore codebases, helping you save time and gain clarity.
 
 ## **How GitPlexity Changes the Game**
+https://github.com/gauravreddy08/gitplexity/raw/main/assets/LlamaDemo.mp4
 
+https://github.com/gauravreddy08/gitplexity/blob/main/assets/LlamaDemo.mp4
 
 ### **Repository Input**
 
