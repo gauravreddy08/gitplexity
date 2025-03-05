@@ -1,4 +1,4 @@
-![](https://github.com/gauravreddy08/gitplexity/raw/main/assets/logo-spaced.png)
+![](gitplexity.gif)
 
 > Watch it working on [Youtube](https://youtu.be/mouoIGca68k)
 
