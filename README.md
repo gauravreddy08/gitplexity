@@ -1,5 +1,7 @@
 ![](https://github.com/gauravreddy08/gitplexity/raw/main/assets/logo-spaced.png)
 
+> Watch it working on [Youtube](https://youtu.be/mouoIGca68k)
+
 Navigating large codebases can be overwhelming, whether you're trying to understand a package, debug a product, or steal someone else’s work off GitHub. 
 
 This challenge often leaves *developers feeling lost*, especially newcomers to a project. 
